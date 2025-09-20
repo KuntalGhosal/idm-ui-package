@@ -1,0 +1,1 @@
+import{j as i}from"./jsx-runtime-D_zvdyIk.js";import{T as o}from"./TextField-DONkHwsO.js";const t=e=>i.jsx(o,{...e});t.__docgenInfo={description:"",methods:[],displayName:"MuiTextField"};export{t as M};
